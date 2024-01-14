@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(5, 2, 27, 0.942);
+   
+}
+
+.seconds{
+    width: 500px;
+    height: 200px;
+    border-radius: 60px;
+    
+   
+    
+}
+.buttons{
+    display: flex;
+
+    gap: 20px;
+}
+.full-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    padding-top: 140px;
+}
+.btn-info{
+    width: 100px;
+    color: white;
+}
+.seconds{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.second{
+    color: white;
+    font-size: 60px;
+}
+
+ li{
+    color: white;
+    font-size: 60px;
+    list-style-type: none;
+
+}
